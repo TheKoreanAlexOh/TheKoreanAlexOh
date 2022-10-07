@@ -3,18 +3,18 @@
 </h1>
 
 # <b>Welcome to my Github!</b>
-
-I'm Alexander Oh, a Korean American currently in Las Vegas, Nevada.<br>
-Student at Bishop Gorman | Year of 2024' <br><br>
-
+<!-- // Introduction-->
+I'm Alexander Oh, a Korean American currently in Las Vegas, Nevada.<br>Student at Bishop Gorman | Year of 2024' 
+<!-- // Connections & Info-->
+<br><br>
 My Links: 
 <i>Discord</i> : 
- 
+
 Career Paths(?):<br>
 - Indie Software Developer (To grow porfolio)<br>
 - Cybersecurity Software Developer <br>
-- Penetration Tester <br><br><br>
-
+- Penetration Tester 
+<br><br><br>
 
 Projects in the works: ♡( ◡‿◡ )<br>
 1) <i>Spotify stats tracking (Name pending)</i><br>
