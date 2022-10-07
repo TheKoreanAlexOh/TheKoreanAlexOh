@@ -1,6 +1,6 @@
-# <b>Welcome to my Github!</b>
+# <b>Hey, I'm Alex</b>
 <!-- // Introduction-->
-I'm Alexander Oh, a Korean American currently in Las Vegas, Nevada.<br>Student at Bishop Gorman | Year of 2024' 
+a Korean American currently in Las Vegas, Nevada.<br>Student at Bishop Gorman | Year of 2024' 
 <!-- // Connections & Info-->
 <br><br>
 <b>My Links:</b> ♡( ◡‿◡ )
