@@ -11,7 +11,7 @@ I'm Alexander Oh, a Korean American currently in Las Vegas, Nevada.<br>Student a
 <i>Trello <i> : <i><b>Coming Soon~</b>
 
 Career Paths(?):<br>
-- Indie Software Developer (To grow porfolio)<br>ex14a2l83e2x@1a4lgme2x8a31i42l@.2g8co3m2ami@glm.caoiml.com
+- Indie Software Developer (To grow porfolio)<br>
 2) <i>Time management app (GSD, or Get sh*t done)</i><br>
 3) <i>Kaomoji insert program (for my sister)</i>
 
