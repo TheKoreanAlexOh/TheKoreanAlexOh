@@ -4,10 +4,10 @@ I'm Alexander Oh, a Korean American currently in Las Vegas, Nevada.<br>Student a
 <!-- // Connections & Info-->
 <br><br>
 <b>My Links:</b> ♡( ◡‿◡ )
-<i>Discord</i> : AlehOh#1843
-<i>Twitter</i> : @KoreanAlexOh
-<i>Github</i> : TheKoreanAlexOh (What a suprise!)
-<i>Email for Inquiries</i> : Alex142832@gmail.com
+<i>Discord</i> : AlehOh#1843<br>
+<i>Twitter</i> : @KoreanAlexOh<br>
+<i>Github</i> : TheKoreanAlexOh (What a suprise!)<br>
+<i>Email for Inquiries</i> : Alex142832@gmail.com<br>
 <i>Trello <i> : <i><b>Coming Soon~</b>
 
 Career Paths(?):<br>
