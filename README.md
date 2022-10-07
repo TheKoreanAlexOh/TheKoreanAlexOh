@@ -1,6 +1,6 @@
-# <b>Hey, I'm Alex</b>
+# <b>[Hey, I'm Alex]</b>
 <!-- // Introduction-->
-a Korean American currently in Las Vegas, Nevada.<br>Student at Bishop Gorman | Year of 2024' 
+A Korean American currently in Las Vegas, Nevada.<br>Student at Bishop Gorman | Year of 2024' 
 <!-- // Connections & Info-->
 <br><br>
 <b>My Links:</b> ♡( ◡‿◡ )
